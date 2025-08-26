@@ -248,7 +248,7 @@ class Invoice {
         return sb.toString();
     } 
 }
-// Main class
+// Main class....
 public class SmartGSTInvoiceManagementSystem {
     static Invoice[] invoices = new Invoice[10]; // Initial capacity for 10 invoices
     static int invoiceCount = 0;
